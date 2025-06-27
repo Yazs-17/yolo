@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>WIN_20250627_18_40_47_Pro.jpg</filename>
+	<path>C:\Desktop\yolo\data\JPEGImages\WIN_20250627_18_40_47_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2816</width>
+		<height>1584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shuizai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2063</xmin>
+			<ymin>650</ymin>
+			<xmax>2300</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+</annotation>
